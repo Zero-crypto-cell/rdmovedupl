@@ -1,1 +1,1 @@
-# rdmovedupl
+This repository contains an efficient solution for the classic "Remove Duplicates" problem on LeetCode. The objective is to modify a sorted integer array in-place so that each unique element appears only once while maintaining the relative order.
